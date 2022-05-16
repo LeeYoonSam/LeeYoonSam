@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LeeYoonSam/LeeYoonSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contribution Graph ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LeeYoonSam&theme=dracula&hide_border=true)
 
-Here are some ideas to get you started:
+## Stats📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeeYoonSam&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="LeeYoonSam" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LeeYoonSam&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="LeeYoonSam" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeYoonSam&theme=highcontrast&hide_border=true" alt="LeeYoonSam" />
+</p>
+
+## My Blog
+- [네이버 블로그](https://blog.naver.com/lys1900)
