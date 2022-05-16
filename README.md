@@ -10,5 +10,9 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeYoonSam&theme=highcontrast&hide_border=true" alt="LeeYoonSam" />
 </p>
 
-## My Blog
+## Recent Activity ⚡
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## My Blog 📖
 - [네이버 블로그](https://blog.naver.com/lys1900)
