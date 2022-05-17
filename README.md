@@ -10,7 +10,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeeYoonSam&theme=highcontrast&hide_border=true" alt="LeeYoonSam" />
 </p>
 
-## Recent Activity ⚡
+<!-- ## Recent Activity ⚡ -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
