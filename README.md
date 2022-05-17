@@ -14,10 +14,5 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
-
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
-
-
 ## My Blog 📖
 - [네이버 블로그](https://blog.naver.com/lys1900)
