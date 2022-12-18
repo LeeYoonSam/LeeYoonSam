@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Contribution Graph ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LeeYoonSam&theme=dracula&hide_border=true)
-
 ## Stats📈
 
 <p align="center">
